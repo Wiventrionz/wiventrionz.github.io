@@ -1,0 +1,17 @@
+h1{
+    color: rgba(0,61,255,0.73);
+}
+
+p{
+    font-size: 68px;
+    color: aqua;
+    font-family: "serif";
+}
+
+#myid{
+    color: aliceblue;
+}
+
+.mycls{
+    color: bisque;
+}
